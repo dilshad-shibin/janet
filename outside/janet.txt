@@ -63,6 +63,8 @@ janet pendings:
 
 6) gallery images @ramya
 
+7) testimonials names @ramya.
+
 
 
 
