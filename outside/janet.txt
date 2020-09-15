@@ -39,6 +39,29 @@ IMAGE SIZES:-
 3.gallery[546*546]
 4.companies[358*230]
 
+===========================================================
+
+janet pendings:
+
+1) banner
+    a.wheel chair & hospital furniture  @sanu
+    b.2nd and 3rd banner contents @ramya[expertise in Pharmaceuticals changes to home  delivery avaiabe add]
+
+2) products viewing page with category @dil
+
+3) offer banner
+    a.create carousel model @dil
+    b.blood sugar monitor 1490/- [750/-]- image @sanu
+    c.wheel chair starting from 4500/-
+    d.blood pressure monitor starting from 1300/-
+    e.nebuliser starting - 1200/-
+    f.adult diaber starting 240/-
+
+4) major companies images @ramya
+
+5) counts @anwar
+
+6) gallery images @ramya
 
 
 
