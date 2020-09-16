@@ -1915,7 +1915,7 @@ blockquote.pull-right small:after {
 address {
     margin-bottom: 20px;
     font-style: normal;
-    line-height: 1.42857143
+    line-height: 1.8
 }
 
 code,
@@ -4188,7 +4188,6 @@ input[type=submit].btn-block {
 }
 
 .fade {
-    opacity: 0;
     -webkit-transition: opacity .15s linear;
     -o-transition: opacity .15s linear;
     transition: opacity .15s linear

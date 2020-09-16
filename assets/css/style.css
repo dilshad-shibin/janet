@@ -3799,6 +3799,10 @@ hero-style3
     padding-top: 30px;
 }
 
+.wpo-about-text h3{
+    margin-top: 0;
+}
+
 .wpo-about-img img,
 .wpo-about-img-2 img {
     width: 100%;
@@ -5577,7 +5581,7 @@ breadcumb-style
 
 .wpo-case-details-tab .nav li a {
     display: block;
-    width: 160px;
+    /* width: 160px; */
     height: 45px;
     line-height: 24px;
     text-align: center;
@@ -7164,6 +7168,41 @@ breadcumb-style
 .accordion-item.is-active .accordion-thumb::before {
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
+}
+
+.nav-pills{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    list-style: none;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.nav-pills .nav-link.active{
+    color: #fff;
+    background: #14b1b2;
+}
+
+.nav-pills .nav-link{
+    padding: .6rem 1rem;
+    border-bottom: 1px solid #e9ecef;
+    position: relative;
+    cursor: pointer;
+}
+
+.product-grid{
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.text-center{
+    text-align: center;
 }
 
 
