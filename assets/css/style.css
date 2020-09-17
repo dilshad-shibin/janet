@@ -3919,6 +3919,7 @@ hero-style3
 .wpo-case-item {
     box-shadow: 0px 5px 9.8px 0.2px rgba(85, 85, 85, 0.07);
     background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,.32);
 }
 
 .wpo-case-text-top {
