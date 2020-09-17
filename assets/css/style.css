@@ -4870,7 +4870,7 @@ breadcumb-style
 ------------------------------------------------------------------*/
 
 .wpo-breadcumb-area {
-    background: url(../images/gallery/edapplly-store-logo.jpg) no-repeat center top / cover;
+    background: url(../images/breadcumb/breadcrumb.png) no-repeat center top / cover;
     min-height: 200px;
     position: relative;
     display: flex;
@@ -5596,7 +5596,7 @@ breadcumb-style
 
 .wpo-case-details-tab .nav li.active a,
 .wpo-case-details-tab .nav li:hover a {
-    background: #f7c33f;
+    background: #14b1b2;
     color: #fff;
     outline: none;
     border-radius: 40px;
