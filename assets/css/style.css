@@ -7226,6 +7226,12 @@ breadcumb-style
     text-align: center;
 }
 
+@media(max-width: 767px){
+    #companies{
+        margin-top: -300px;
+    }
+}
+
 
 
 /*----------------------------------------------
