@@ -6,30 +6,32 @@ Hand: #ffdfd01
 shop interier color green: #14b1b2
 ==================================================
 
-New shop Address:[Edappally-retail shop]
+Edappally-retail shop]
 
 janet healthcare pharmacy & surgicals,
 Edappally toll, Gowry keshavan Building ,Metro pillar #377,
 pin 682 024, Ernakulam , kerala.
-===========================================================
 
-Kolanchery shop: ...(Wholesale)
-==============================================================
 
 email: janethealthcare2008@gmail.com
 
 phone: 9846100118, 9846100119, 9446947352
+===========================================================
+
+Kolanchery shop: ...(DOCTORS SURGICALS)
+
+1st floor,varappathukuzhy Building,
+MM JN kolenchery.
+doctors_surgicals@yahoo.com
+0484-2763666,9072333716
+==============================================================
+Thalassery shop(COMFORT SURGICALS)
+
+1st floor,pearl view plaza Venus corner,
+opp cooperative hospital, Thalassery .
+doctors_surgicals@yahoo.com
+04902327522, 9946233778
 ============================================================
-
-Contents: 
-
--> Pharmacy cum Surgical supermarket.
--> Provides 
-    a.Surgical equipment 
-    b.Pharmaceuticals items
-    c.Cosmetics
-    d.New born baby care Products
-    e.Pet care Products. 
 ======================================================
 
 IMAGE SIZES:-
@@ -42,14 +44,7 @@ IMAGE SIZES:-
 ===========================================================
 
 janet pendings:
-
-1) banner
-    a.wheel chair & hospital furniture  @sanu
-    b.2nd and 3rd banner contents @ramya[expertise in Pharmaceuticals changes to home  delivery avaiabe add]
-
-2) products viewing page with category @dil
-
-3) offer banner
+1) offer banner
     a.create carousel model @dil
     b.blood sugar monitor 1490/- [750/-]- image @sanu
     c.wheel chair starting from 4500/-
@@ -57,14 +52,27 @@ janet pendings:
     e.nebuliser starting - 1200/-
     f.adult diaber starting 240/-
 
-4) major companies images @ramya
+2) counts @anwar
 
-5) counts @anwar
+============================================================
 
-6) gallery images @ramya
+Janet new updations:
 
-7) testimonials names @ramya.
+1.change files
+    a.index.html
+    b.about.html
+    c.Edappally.html
+    d.Thalassery.html
+    e.kolenchery.html
+    f.style.css [assets/css]
+    g.bootstrap.css [assets/css]
+    h.[assets/images]
+    i.script.js[assets/js]
 
-
+2.add Files:
+    a.Edappally_branch.html
+    b.Thalassery_branch.html
+    c.kolenchery_branch.html
+    d.product_view.html
 
 

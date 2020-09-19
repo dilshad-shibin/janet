@@ -5138,6 +5138,26 @@ breadcumb-style
     height: 250px;
 }
 
+.wpo-section-history{
+    position: relative;
+}
+
+.hover{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -52px;
+    margin-left: -33px;
+}
+.video-play{
+    position: relative;
+    display: inline-block;
+}
+
+.video-play img{
+    width: 76px;
+    height: 76px;
+}
 
 /*--------------------------------------------------------------
 #5.0 wpo-contact-page
