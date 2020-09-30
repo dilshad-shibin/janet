@@ -75,4 +75,16 @@ Janet new updations:
     c.kolenchery_branch.html
     d.product_view.html
 
+    =============================
+
+Our products[categories]
+
+1]Hospital furnitures
+2]Medical devices
+3]Orthopedic products
+4]Self healthcare products
+5]Diabetic footwares
+6]Ayurvedic products
+7]New born babycare
+
 
