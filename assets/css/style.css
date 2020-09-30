@@ -5595,7 +5595,7 @@ breadcumb-style
 =======================================================*/
 
 .wpo-case-details-tab {
-    padding: 15px 30px;
+    padding: 15px 10px;
     border: 1px solid #ebebeb;
     margin-top: 40px;
 }
@@ -7220,6 +7220,10 @@ breadcumb-style
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     margin-bottom: 20px;
     position: relative;
+}
+
+.product-img{
+    text-align: center;
 }
 
 .text-center{
