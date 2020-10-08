@@ -2928,7 +2928,7 @@ img {
     .hero-style-2 .slide-caption h2,
     .hero-style-3 .slide-caption h2 {
         font-size: 35px;
-        font-size: 2.1875rem;
+        font-size: 1.8rem;
     }
 }
 
@@ -2971,7 +2971,7 @@ img {
 @media (max-width: 767px) {
     .hero-style-1 .slide-caption,
     .hero-style-2 .slide-caption {
-        padding-top: 190px;
+        padding-top: 130px;
     }
 }
 
@@ -3795,7 +3795,7 @@ hero-style3
 }
 
 .wpo-about-text {
-    padding-right: 50px;
+    /* padding-right: 50px; */
     padding-top: 30px;
 }
 
@@ -7233,6 +7233,9 @@ breadcumb-style
 @media(max-width: 767px){
     #companies{
         margin-top: -300px;
+    }
+    .col-md-none{
+        display: none;
     }
 }
 
