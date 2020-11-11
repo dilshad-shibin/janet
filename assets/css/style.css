@@ -166,7 +166,7 @@ img {
 }
 
 .p-1 {
-    padding: 1rem;
+    padding: 2rem 1rem; 
 }
 
 .page-wrapper {
@@ -5141,6 +5141,25 @@ breadcumb-style
 .wpo-section-history{
     position: relative;
 }
+
+.wpo-section-history-2{
+    position: relative;
+    border: 5px solid #333;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.32);
+    border-radius: 5px;
+}
+
+.wpo-section-history-2 .overlay{
+    background: #333;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.5;   
+}
+
+
 
 .hover{
     position: absolute;
